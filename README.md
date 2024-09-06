@@ -27,8 +27,8 @@ https://book.getfoundry.sh/
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-smart-contract-lottery-cu
-cd foundry-smart-contract-lottery-cu
+git clone https://github.com/KrisAdw/Smart-Contract-Lottery.git
+cd smart-contract-lottery
 forge build
 ```
 # Usage
